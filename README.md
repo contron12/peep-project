@@ -8,3 +8,6 @@ peep (folder)
   settings.py
   urls.py
   wsgi.py}
+  
+actually never mind on most of this stuff lol we've figured it out using github
+¯\_ツ_/¯
